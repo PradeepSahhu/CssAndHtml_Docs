@@ -21,7 +21,14 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: #0000FF;
+color: #0000FF;
+}
+```
+## Targeting Elements.
+```
+::placeholder {
+  color: green;
+  opacity: 1; /* Firefox */
 }
 ```
 
