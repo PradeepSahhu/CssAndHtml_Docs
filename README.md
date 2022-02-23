@@ -1,6 +1,8 @@
 # CssAndHtml_Docs
 
 # CSS
+
+## Pseudo Class
 ```
 /* unvisited link */
 a:link {
@@ -26,3 +28,14 @@ a:active {
 
 
 # HTML
+
+## Tags
+```
+<aside><p>will make a quote like para on the side of the page. </p> </aside> 
+<article>
+  usefule in make a section of small articles.
+</article>
+<section> 
+  //useful in seperating the section 
+</section>
+```
